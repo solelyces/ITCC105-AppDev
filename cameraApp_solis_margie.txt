@@ -1,0 +1,2 @@
+User Story: 
+As a photographer using the camera app, I want AI to automatically remove unnecessary people or objects in the background when I take a photo of myself, so that my photos look clean and focused on me without background distractions.
